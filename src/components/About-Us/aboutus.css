@@ -1,12 +1,30 @@
 .abodiv {
     background-color: #000120 ;
-    color: #FCEE22;
+    text-align: center;
+    font-size: 18px;
+}
+
+img {
+    align-items: center;
+}
+
+h3 {
+    color: #F8EDED;
+    text-align: center;
+    line-height: 1.5;
+    margin: 20px;
+}
+
+h2 {
+    color: #F8EDED;
+   
+    margin: 40px 40px ;
 }
 
 .caja-per {
-    width: 1170px;
+    width: 1320px;
     height: 368px;
-    margin: 10px 10px 50px;
+    margin: 50px 10px 50px;
     display: flex;
     align-items: center;
     justify-content: center;

@@ -1,9 +1,9 @@
 import React from 'react';
-import styles from "./contact.css"
+
 
 const Contact = () => {
   return (
-    <div className={styles.fondo}>
+    <div>
       <h1>CONTACTO</h1>
       <hr/>
       <h2>Obtenga Resultados Reales!!!</h2>
